@@ -19,11 +19,11 @@ Program ini adalah implementasi dari beberapa algoritma cipher, yaitu Vigenere, 
 
 ### Menggunakan Terminal
 
-1. Buka terminal di direktori tempat Anda menyimpan file program ini.
+1. Buka terminal di direktori tempat menyimpan file program ini.
    
 2. Jalankan program dengan perintah:
     ```bash
-    python nama_file_program.py
+    python chiper.py
     ```
 
 ### Menggunakan Editor Kode seperti Visual Studio Code
