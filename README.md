@@ -35,7 +35,7 @@ Program ini adalah implementasi dari beberapa algoritma cipher, yaitu Vigenere, 
     - Arahkan ke folder tempat menyimpan file program ini, kemudian klik **Select Folder**.
 
 3. Jalankan program:
-    - Di Visual Studio Code, pastikan telah membuka file `chhiper.py`.
+    - Di Visual Studio Code, pastikan telah membuka file `chiper.py`.
     - Tekan tombol **F5** atau pilih **Run > Start Debugging** untuk menjalankan program.
     - Jendela GUI akan muncul dan program dapat digunakan.
 
