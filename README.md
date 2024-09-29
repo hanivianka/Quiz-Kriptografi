@@ -1,7 +1,3 @@
-### Nama : Hanivianka Amelia Hamson
-### NIM : 4611422117 
-<br>
-
 # Program Cipher
 
 Program ini adalah implementasi dari beberapa algoritma cipher, yaitu Vigenere, Playfair, dan Hill Cipher. Program menggunakan antarmuka GUI berbasis Tkinter untuk memudahkan pengguna dalam melakukan enkripsi dan dekripsi teks.
